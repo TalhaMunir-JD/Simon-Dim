@@ -1,4 +1,3 @@
-# Talha-Munir
 # Read me file
 # prerequisites for the project to run
 
